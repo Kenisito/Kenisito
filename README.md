@@ -98,18 +98,6 @@ No solo me interesa que el código funcione, sino entender:
 
 ---
 
-## 📊 Estadísticas
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenisito&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,prs_merged_percentage)](https://github.com/Kenisito)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenisito&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Kenisito)
-
-</div>
-
----
-
 ## 🔗 Conecta conmigo
 
 <div align="center">
