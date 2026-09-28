@@ -1,18 +1,28 @@
 # 👋 Hola, soy Craig
 
-Ingeniero de Sistemas, **Backend Developer** y **DevOps Engineer** con expertise en CI/CD, automatización e infraestructura cloud.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Backend+Developer;DevOps+Engineer;Platform+Engineering;Automation+%26+Architecture" alt="Typing SVG" />
+</div>
 
-Diseño y construyo sistemas escalables, pipelines robustos y herramientas de automatización. Me apasiona entender la arquitectura completa de las aplicaciones: desde el código hasta su despliegue, seguridad y monitoreo.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20%2B%20DevOps-7C3AED?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Stack-Java%20%7C%20Quarkus%20%7C%20Python-10B981?style=for-the-badge" alt="Stack" />
+  <img src="https://img.shields.io/badge/Interest-Architecture%20%26%20Automation-0EA5E9?style=for-the-badge" alt="Interest" />
+</p>
+
+Ingeniero de Sistemas, **Backend Developer** y **DevOps Engineer** con enfoque en **CI/CD, automatización, seguridad y arquitectura de software**.
+
+Me apasiona construir sistemas que no solo funcionan, sino que también son **escalables, seguros, mantenibles y observables**. Mi interés principal está en conectar el desarrollo con la infraestructura, la automatización y la ingeniería de plataformas.
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🧭 Sobre mí
 
-- 🏗️ **Especialización**: Backend, DevOps, Platform Engineering y Architecture
-- 🔐 **Expertise**: CI/CD, DevSecOps, automatización e infraestructura
-- 🤖 **Enfoque actual**: Agentic AI, observabilidad y Platform Engineering
-- 📚 **Aprendizaje continuo**: Kubernetes, arquitectura avanzada, automatización con IA
-- 🎯 **Objetivo**: Construir herramientas que analicen y optimicen arquitecturas de software
+- 🏗️ Especializado en **Backend**, **DevOps**, **Platform Engineering** y **Architecture**
+- 🔐 Interesado en **DevSecOps**, automatización, pipelines y seguridad aplicada al desarrollo
+- 🤖 Enfoque actual en **Agentic AI**, observabilidad y soluciones inteligentes para ingeniería
+- 📚 Aprendizaje continuo en **Kubernetes**, infraestructura cloud, automatización y arquitectura avanzada
+- 🎯 Objetivo: construir sistemas que se entiendan, se desplieguen bien y escalen con calidad
 
 ---
 
@@ -20,11 +30,12 @@ Diseño y construyo sistemas escalables, pipelines robustos y herramientas de au
 
 <div align="center">
 
-### Backend & Programación
+### Backend & APIs
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 ### DevOps & CI/CD
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -38,8 +49,9 @@ Diseño y construyo sistemas escalables, pipelines robustos y herramientas de au
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
-### Seguridad
+### Seguridad & Calidad
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white)
 ![CodeQL](https://img.shields.io/badge/CodeQL-0066CC?style=flat-square)
@@ -52,49 +64,45 @@ Diseño y construyo sistemas escalables, pipelines robustos y herramientas de au
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square)
-
 </div>
 
 ---
 
-## 🚀 Proyectos & Intereses
+## 🚀 Áreas de interés
 
 ### Architecture Intelligence
-Desarrollo herramientas y agentes inteligentes que:
+Estoy desarrollando ideas y proyectos alrededor de sistemas que puedan:
 
-- 🔍 Analizan repositorios y mapean dependencias automáticamente
-- 🛣️ Identifican tecnologías, workflows y arquitecturas
-- 🔗 Descubren relaciones entre componentes y servicios
-- 🛡️ Detectan riesgos de seguridad y vulnerabilidades
-- ⚙️ Visualizan y optimizan flujos de CI/CD
-- 📊 Generan insights sobre observabilidad
+- 🔍 analizar repositorios y mapear dependencias
+- 🧭 identificar tecnologías, workflows y arquitectura de software
+- 🔗 relacionar servicios, componentes y flujos de integración
+- 🛡️ detectar riesgos de seguridad y oportunidades de mejora
+- ⚙️ optimizar pipelines de CI/CD y despliegues
+- 📊 dar visibilidad a la salud operacional de una solución
 
-### En desarrollo actualmente
+### Trabajo actual
 - 🤖 Agentes inteligentes para análisis de arquitectura
-- ☸️ Platform Engineering y Kubernetes
-- 📈 Observabilidad y monitoreo avanzado
-- 🧩 Orquestación de pipelines inteligentes
-- 📚 Herramientas educativas para DevOps
+- ☸️ Kubernetes y Platform Engineering
+- 📈 Observabilidad y monitoreo de sistemas
+- 🧩 Automatización aplicada a DevOps
 - 🛡️ DevSecOps y análisis de seguridad
+- 📚 Herramientas educativas para ingeniería moderna
 
 ---
 
-## 💡 Mi Enfoque
+## 💡 Mi enfoque
+
+La pregunta que más me interesa responder es esta:
+
+> ¿Cómo se construye, integra, segura, despliega y evoluciona un sistema completo?
+
+Por eso mi camino está en la intersección entre:
 
 ```
 Backend + DevOps + Platform Engineering + Architecture + AI
 ```
 
-No solo me interesa que el código funcione, sino entender:
-
-- ¿Cómo se construye y se integra?
-- ¿Cómo se asegura y se despliega?
-- ¿Cómo escala y se monitorea?
-- ¿Cómo se relacionan todos los componentes?
-- ¿Cómo puede la IA optimizar estos procesos?
+No me conformo solo con que el código funcione; me interesa que el sistema sea **robusto, claro, seguro y sostenible**.
 
 ---
 
@@ -110,19 +118,16 @@ No solo me interesa que el código funcione, sino entender:
 
 ---
 
-## 📝 Stack Técnico Resumido
+## 🧩 Stack resumido
 
-```
-Java · Quarkus · Python · Git · GitHub · GitHub Actions · 
-Docker · Kubernetes · Linux · Maven · MySQL · Azure · 
-Cloudflare · Terraform · React · Astro · CI/CD · DevSecOps · 
-Platform Engineering · Agentic AI
+```text
+Java · Quarkus · Python · Git · GitHub · GitHub Actions · Docker · Kubernetes · Linux · Maven · MySQL · Azure · Cloudflare · Terraform · React · Astro · CI/CD · DevSecOps · Platform Engineering · Agentic AI
 ```
 
 ---
 
 <div align="center">
 
-**Construyendo, automatizando y entendiendo sistemas de principio a fin.**
+<strong>Construyendo, automatizando y entendiendo sistemas de principio a fin.</strong>
 
 </div>
