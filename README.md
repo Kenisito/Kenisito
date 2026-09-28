@@ -1,60 +1,108 @@
-# Kenisito
+# 👋 Hola, soy Craig
+
+Ingeniero de Sistemas, **Backend Developer** y **DevOps Engineer** con expertise en CI/CD, automatización e infraestructura cloud.
+
+Diseño y construyo sistemas escalables, pipelines robustos y herramientas de automatización. Me apasiona entender la arquitectura completa de las aplicaciones: desde el código hasta su despliegue, seguridad y monitoreo.
+
+---
+
+## 👨‍💻 Sobre mí
+
+- 🏗️ **Especialización**: Backend, DevOps, Platform Engineering y Architecture
+- 🔐 **Expertise**: CI/CD, DevSecOps, automatización e infraestructura
+- 🤖 **Enfoque actual**: Agentic AI, observabilidad y Platform Engineering
+- 📚 **Aprendizaje continuo**: Kubernetes, arquitectura avanzada, automatización con IA
+- 🎯 **Objetivo**: Construir herramientas que analicen y optimicen arquitecturas de software
+
+---
+
+## 🛠️ Stack Tecnológico
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineer;Building+clean+and+scalable+solutions;Always+learning+and+improving+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Code-Clean%20%26%20Scalable-10B981?style=for-the-badge" alt="Code quality" />
-  <img src="https://img.shields.io/badge/Learning-Continuous%20Improvement-0EA5E9?style=for-the-badge" alt="Learning" />
-</p>
+### Backend & Programación
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
----
+### DevOps & CI/CD
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## About me
+### Cloud & Infraestructura
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-I am a software developer passionate about creating robust digital products, solving real-world problems, and continuously improving my technical skills.
-
-I enjoy working across the full stack, building interfaces that are intuitive and systems that are reliable, maintainable, and scalable.
-
-- 💡 Interested in software architecture, product development, and clean engineering practices
-- 🌱 Constantly learning modern tools and technologies
-- 🤝 Open to collaboration, interesting ideas, and challenging projects
-- 🚀 Focused on writing clear, efficient, and maintainable code
-
----
-
-## Core stack
+### Seguridad
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white)
+![CodeQL](https://img.shields.io/badge/CodeQL-0066CC?style=flat-square)
+![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?style=flat-square&logo=dependabot&logoColor=white)
 
 ### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square)
 
-### Tools & workflows
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+</div>
 
 ---
 
-## GitHub statistics
+## 🚀 Proyectos & Intereses
+
+### Architecture Intelligence
+Desarrollo herramientas y agentes inteligentes que:
+
+- 🔍 Analizan repositorios y mapean dependencias automáticamente
+- 🛣️ Identifican tecnologías, workflows y arquitecturas
+- 🔗 Descubren relaciones entre componentes y servicios
+- 🛡️ Detectan riesgos de seguridad y vulnerabilidades
+- ⚙️ Visualizan y optimizan flujos de CI/CD
+- 📊 Generan insights sobre observabilidad
+
+### En desarrollo actualmente
+- 🤖 Agentes inteligentes para análisis de arquitectura
+- ☸️ Platform Engineering y Kubernetes
+- 📈 Observabilidad y monitoreo avanzado
+- 🧩 Orquestación de pipelines inteligentes
+- 📚 Herramientas educativas para DevOps
+- 🛡️ DevSecOps y análisis de seguridad
+
+---
+
+## 💡 Mi Enfoque
+
+```
+Backend + DevOps + Platform Engineering + Architecture + AI
+```
+
+No solo me interesa que el código funcione, sino entender:
+
+- ¿Cómo se construye y se integra?
+- ¿Cómo se asegura y se despliega?
+- ¿Cómo escala y se monitorea?
+- ¿Cómo se relacionan todos los componentes?
+- ¿Cómo puede la IA optimizar estos procesos?
+
+---
+
+## 📊 Estadísticas
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenisito&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Kenisito)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenisito&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,prs_merged_percentage)](https://github.com/Kenisito)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenisito&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Kenisito)
 
@@ -62,39 +110,31 @@ I enjoy working across the full stack, building interfaces that are intuitive an
 
 ---
 
-## Featured work
+## 🔗 Conecta conmigo
 
-I focus on building projects that combine usability, performance, and a strong technical foundation.
+<div align="center">
 
-- Web applications with modern interfaces
-- APIs and backend services
-- Tools that improve developer productivity
-- Products designed with maintainability in mind
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craig-kem-castro-pairazaman-024965150/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](http://craigkem.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kenisito)
 
----
-
-## Professional principles
-
-- Write clean and understandable code
-- Prefer sustainable solutions over quick fixes
-- Build with user experience in mind
-- Keep learning and adapt to new technologies
-- Collaborate with clarity and respect
+</div>
 
 ---
 
-## Contact
+## 📝 Stack Técnico Resumido
 
-I am open to professional opportunities, collaborations, and meaningful technical conversations.
-
-<p align="center">
-  <a href="https://github.com/Kenisito" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+```
+Java · Quarkus · Python · Git · GitHub · GitHub Actions · 
+Docker · Kubernetes · Linux · Maven · MySQL · Azure · 
+Cloudflare · Terraform · React · Astro · CI/CD · DevSecOps · 
+Platform Engineering · Agentic AI
+```
 
 ---
 
-<p align="center">
-  <strong>Building practical solutions with attention to detail.</strong>
-</p>
+<div align="center">
+
+**Construyendo, automatizando y entendiendo sistemas de principio a fin.**
+
+</div>
