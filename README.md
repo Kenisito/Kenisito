@@ -1,7 +1,7 @@
 # 👋 Hola, soy Craig
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Backend+Developer;DevOps+Engineer;Platform+Engineering;Automation+%26+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Backend+Developer;DevOps+Engineer;Platform+Engineer;Automation+%26+Architecture" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -10,18 +10,18 @@
   <img src="https://img.shields.io/badge/Interest-Architecture%20%26%20Automation-0EA5E9?style=for-the-badge" alt="Interest" />
 </p>
 
-Ingeniero de Sistemas, **Backend Developer** y **DevOps Engineer** con enfoque en **CI/CD, automatización, seguridad y arquitectura de software**.
+Ingeniero de Sistemas, Backend Developer y DevOps Engineer con enfoque en CI/CD, automatización, seguridad y arquitectura de software.
 
-Me apasiona construir sistemas que no solo funcionan, sino que también son **escalables, seguros, mantenibles y observables**. Mi interés principal está en conectar el desarrollo con la infraestructura, la automatización y la ingeniería de plataformas.
+Me apasiona construir sistemas que no solo funcionen, sino que además sean escalables, seguros, mantenibles y observables. Mi interés principal está en conectar el desarrollo con la infraestructura, la automatización y la ingeniería de plataformas.
 
 ---
 
 ## 🧭 Sobre mí
 
-- 🏗️ Especializado en **Backend**, **DevOps**, **Platform Engineering** y **Architecture**
-- 🔐 Interesado en **DevSecOps**, automatización, pipelines y seguridad aplicada al desarrollo
-- 🤖 Enfoque actual en **Agentic AI**, observabilidad y soluciones inteligentes para ingeniería
-- 📚 Aprendizaje continuo en **Kubernetes**, infraestructura cloud, automatización y arquitectura avanzada
+- 🏗️ Especializado en Backend, DevOps, Platform Engineering y Architecture
+- 🔐 Interesado en DevSecOps, automatización, pipelines y seguridad aplicada al desarrollo
+- 🤖 Enfoque actual en Agentic AI, observabilidad y soluciones inteligentes para ingeniería
+- 📚 Aprendizaje continuo en Kubernetes, infraestructura cloud, automatización y arquitectura avanzada
 - 🎯 Objetivo: construir sistemas que se entiendan, se desplieguen bien y escalen con calidad
 
 ---
@@ -98,11 +98,11 @@ La pregunta que más me interesa responder es esta:
 
 Por eso mi camino está en la intersección entre:
 
-```
+```text
 Backend + DevOps + Platform Engineering + Architecture + AI
 ```
 
-No me conformo solo con que el código funcione; me interesa que el sistema sea **robusto, claro, seguro y sostenible**.
+No me conformo solo con que el código funcione; me interesa que el sistema sea robusto, claro, seguro y sostenible.
 
 ---
 
