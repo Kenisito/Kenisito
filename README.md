@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Interest-Architecture%20%26%20Automation-0EA5E9?style=for-the-badge" alt="Interest" />
 </p>
 
-Ingeniero de Sistemas, **Backend Developer** y **DevOps Engineer** con enfoque en **CI/CD, automatización, seguridad y arquitectura de software**.
+Tecnico de Sistemas, **Backend Developer** y **DevOps Engineer** con enfoque en **CI/CD, automatización, seguridad y arquitectura de software**.
 
 Me apasiona construir sistemas que no solo funcionen, sino que también sean **escalables, seguros, mantenibles y observables**. Mi interés principal está en conectar el desarrollo con la infraestructura, la automatización y la ingeniería de plataformas.
 
